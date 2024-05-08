@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=F75EAC&width=435&lines=%F0%9F%92%BBHtml,+Bootstrap" alt="Typing SVG" /></a>
 
-
+ 
 <div id="badge" align="center">
 
     
